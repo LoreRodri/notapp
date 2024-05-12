@@ -1,3 +1,3 @@
 # notapp
 
-this app saves notes for you daily basis 
+this app saves notes for you daily basis. enjoy
